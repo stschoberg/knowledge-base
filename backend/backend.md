@@ -2,7 +2,9 @@
 
 ## Blogs
 [APIs You Wont Hate](https://apisyouwonthate.com/)
+
 [Slack](https://slack.engineering/)
+
 [Netflix](https://netflixtechblog.com/)
 
 [NGINX Proxy Pass](https://dev.to/danielkun/nginx-everything-about-proxypass-2ona)
