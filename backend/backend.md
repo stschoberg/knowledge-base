@@ -11,7 +11,8 @@
 
 ## Docs
 [OpenAPI Spec](https://swagger.io/)
-[Websockets] (https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+
+[Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 ## Books
 [Designing Data Intensive Applications](https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-intensive-applications.pdf)
@@ -28,4 +29,5 @@
  - Websockets, messaging servers, LAMP stack with PHP monolith, database sharding, caching, highly-available writes and eventual consistency using MYSQL
 
 [Scaling Slack](https://www.youtube.com/watch?v=_M-oHxknfnI)
+
 [Scaling DropBox](https://www.youtube.com/watch?v=PE4gwstWhmc)
