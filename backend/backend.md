@@ -5,8 +5,11 @@
 [Slack](https://slack.engineering/)
 [Netflix](https://netflixtechblog.com/)
 
+[NGINX Proxy Pass](https://dev.to/danielkun/nginx-everything-about-proxypass-2ona)
+
 ## Docs
 [OpenAPI Spec](https://swagger.io/)
+[Websockets] (https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 ## Books
 [Designing Data Intensive Applications](https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-intensive-applications.pdf)
