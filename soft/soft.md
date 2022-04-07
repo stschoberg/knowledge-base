@@ -5,3 +5,5 @@
 
 
 [Joel on Software](https://www.joelonsoftware.com/)
+
+[How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
